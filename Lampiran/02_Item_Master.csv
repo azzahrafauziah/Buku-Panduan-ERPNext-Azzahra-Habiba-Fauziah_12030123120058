@@ -1,0 +1,11 @@
+﻿# 02_Item_Master.csv
+item_code,item_name,item_group,stock_uom,is_stock_item,include_item_in_manufacturing,standard_rate,valuation_rate
+RM-KAN-001,Kain Katun Toyobo Premium,Bahan Baku Tekstil,Meter,1,1,35000,35000
+RM-VLM-002,Kain Voal Ultrafine Premium,Bahan Baku Tekstil,Meter,1,1,25000,25000
+RM-BNG-001,Benang Jahit Spun Poly 40/2,Aksesoris Garmen,Roll,1,1,5000,5000
+RM-KCG-001,Kancing Jamur Mutiara 18L,Aksesoris Garmen,Pcs,1,1,500,500
+RM-RSL-001,Resleting Jepang YKK 50cm,Aksesoris Garmen,Pcs,1,1,3000,3000
+RM-LBL-001,Label Woven & Hangtag Azzahra,Aksesoris Garmen,Pcs,1,1,1000,1000
+RM-PLK-001,Plastik Klip Zipper Sablon Azzahra,Bahan Kemasan,Pcs,1,1,1500,1500
+FG-GMS-001,Gamis Azzahra Syari Mocca,Busana Muslimah,Pcs,1,1,225000,123000
+FG-HJB-001,Hijab Voal Azzahra Maroon,Busana Muslimah,Pcs,1,1,75000,35000

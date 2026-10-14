@@ -1,0 +1,5 @@
+﻿# 03_Warehouse.csv
+warehouse_name,parent_warehouse
+Gudang Bahan Baku - AZ,All Warehouses
+Gudang WIP Produksi - AZ,All Warehouses
+Gudang Barang Jadi - AZ,All Warehouses

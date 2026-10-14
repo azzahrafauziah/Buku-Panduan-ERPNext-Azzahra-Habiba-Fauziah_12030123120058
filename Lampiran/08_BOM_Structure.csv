@@ -1,0 +1,12 @@
+﻿# 08_BOM_Structure.csv
+bom_item_code,bom_item_name,quantity,raw_material_code,raw_material_name,qty_needed,uom
+FG-GMS-001,Gamis Azzahra Syari Mocca,1,RM-KAN-001,Kain Katun Toyobo Premium,2.5,Meter
+FG-GMS-001,Gamis Azzahra Syari Mocca,1,RM-BNG-001,Benang Jahit Spun Poly 40/2,0.2,Roll
+FG-GMS-001,Gamis Azzahra Syari Mocca,1,RM-KCG-001,Kancing Jamur Mutiara 18L,6,Pcs
+FG-GMS-001,Gamis Azzahra Syari Mocca,1,RM-RSL-001,Resleting Jepang YKK 50cm,1,Pcs
+FG-GMS-001,Gamis Azzahra Syari Mocca,1,RM-LBL-001,Label Woven & Hangtag Azzahra,1,Pcs
+FG-GMS-001,Gamis Azzahra Syari Mocca,1,RM-PLK-001,Plastik Klip Zipper Sablon Azzahra,1,Pcs
+FG-HJB-001,Hijab Voal Azzahra Maroon,1,RM-VLM-002,Kain Voal Ultrafine Premium,1.15,Meter
+FG-HJB-001,Hijab Voal Azzahra Maroon,1,RM-BNG-001,Benang Jahit Spun Poly 40/2,0.1,Roll
+FG-HJB-001,Hijab Voal Azzahra Maroon,1,RM-LBL-001,Label Woven & Hangtag Azzahra,1,Pcs
+FG-HJB-001,Hijab Voal Azzahra Maroon,1,RM-PLK-001,Plastik Klip Zipper Sablon Azzahra,1,Pcs

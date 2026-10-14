@@ -1,0 +1,6 @@
+﻿# 01_Item_Group.csv
+item_group_name,parent_item_group,is_group
+Bahan Baku Tekstil,All Item Groups,0
+Aksesoris Garmen,All Item Groups,0
+Bahan Kemasan,All Item Groups,0
+Busana Muslimah,All Item Groups,0
